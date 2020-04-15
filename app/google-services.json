@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "822272639292",
+    "firebase_url": "https://drivewithalexa.firebaseio.com",
+    "project_id": "drivewithalexa",
+    "storage_bucket": "drivewithalexa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822272639292:android:29a042369b5c9a3f81de39",
+        "android_client_info": {
+          "package_name": "ch.zhaw.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822272639292-mu658f895i3vrlk21ev4stk2hllvms9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkp3h5tpc0_O5woex_0w9PsIs2gFuSk30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822272639292-mu658f895i3vrlk21ev4stk2hllvms9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
